@@ -1,0 +1,78 @@
+CALCULATING: Best hyperparameters for the dataset PRIMES in the range ER1
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 200, 'optimizer': 'adam', 'units': 64}
+   ==> Best Negative Mean Squared Error: -35.70477555256258
+Elapsed Time: 342.956702709198(s)
+
+CALCULATING: Best hyperparameters for the dataset PRIMES in the range ER2
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 200, 'optimizer': 'adam', 'units': 128}
+   ==> Best Negative Mean Squared Error: -149.90470173326375
+Elapsed Time: 341.35387110710144(s)
+
+CALCULATING: Best hyperparameters for the dataset PRIMES in the range ER3
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 64}
+   ==> Best Negative Mean Squared Error: -219.55109588637478
+Elapsed Time: 346.36505937576294(s)
+
+CALCULATING: Best hyperparameters for the dataset PRIMES in the range ER4
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 32}
+   ==> Best Negative Mean Squared Error: -566.1769529943318
+Elapsed Time: 349.6720292568207(s)
+
+CALCULATING: Best hyperparameters for the dataset PRIMES in the range ER5
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 200, 'optimizer': 'adam', 'units': 32}
+   ==> Best Negative Mean Squared Error: -8990.370634111903
+Elapsed Time: 344.2719385623932(s)
+
+CALCULATING: Best hyperparameters for the dataset PRIMES in the range ER6
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 128}
+   ==> Best Negative Mean Squared Error: -16650.90672451977
+Elapsed Time: 349.59801959991455(s)
+
+################################################################################
+
+CALCULATING: Best hyperparameters for the dataset SUM in the range ER1
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 16}
+   ==> Best Negative Mean Squared Error: -9277.175142597082
+Elapsed Time: 348.71520495414734(s)
+
+CALCULATING: Best hyperparameters for the dataset SUM in the range ER2
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 100, 'optimizer': 'adam', 'units': 8}
+   ==> Best Negative Mean Squared Error: -107555277.57487346
+Elapsed Time: 342.3624520301819(s)
+
+CALCULATING: Best hyperparameters for the dataset SUM in the range ER3
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 150, 'optimizer': 'adam', 'units': 8}
+   ==> Best Negative Mean Squared Error: -5041.799312749623
+Elapsed Time: 343.58986258506775(s)
+
+################################################################################
+
+CALCULATING: Best hyperparameters for the dataset SUNDARAM_FACTORS in the range ER1
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 150, 'optimizer': 'adam', 'units': 32}
+   ==> Best Negative Mean Squared Error: -1085.1856231666648
+Elapsed Time: 343.24849820137024(s)
+
+CALCULATING: Best hyperparameters for the dataset SUNDARAM_FACTORS in the range ER2
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 128}
+   ==> Best Negative Mean Squared Error: -3820.073088783176
+Elapsed Time: 349.05343556404114(s)
+
+CALCULATING: Best hyperparameters for the dataset SUNDARAM_FACTORS in the range ER3
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 150, 'optimizer': 'adam', 'units': 8}
+   ==> Best Negative Mean Squared Error: -5041.799312749623
+Elapsed Time: 343.58986258506775(s)
+
+CALCULATING: Best hyperparameters for the dataset SUNDARAM_FACTORS in the range ER4
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 64}
+   ==> Best Negative Mean Squared Error: -15446.952529844275
+Elapsed Time: 350.1310341358185(s)
+
+CALCULATING: Best hyperparameters for the dataset SUNDARAM_FACTORS in the range ER5
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 32}
+   ==> Best Negative Mean Squared Error: -300354.71673744946
+Elapsed Time: 352.298522233963(s)
+
+CALCULATING: Best hyperparameters for the dataset SUNDARAM_FACTORS in the range ER6
+   ==> Best Parameters: {'activation': 'relu', 'epochs': 400, 'optimizer': 'adam', 'units': 64}
+   ==> Best Negative Mean Squared Error: -418751.6786190415
+Elapsed Time: 351.21618366241455(s)

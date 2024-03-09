@@ -1,0 +1,78 @@
+TRAINING & STORING: Neural Network for the dataset PRIMES in the range ER1
+1/1 [==============================] - 0s 123ms/step - loss: 13.9319 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 8.648902416229248(s)
+
+TRAINING & STORING: Neural Network for the dataset PRIMES in the range ER2
+1/1 [==============================] - 0s 102ms/step - loss: 57.9423 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 8.499916315078735(s)
+
+TRAINING & STORING: Neural Network for the dataset PRIMES in the range ER3
+1/1 [==============================] - 0s 100ms/step - loss: 127.9281 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.501718997955322(s)
+
+TRAINING & STORING: Neural Network for the dataset PRIMES in the range ER4
+1/1 [==============================] - 0s 101ms/step - loss: 784.9321 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.471712350845337(s)
+
+TRAINING & STORING: Neural Network for the dataset PRIMES in the range ER5
+1/1 [==============================] - 0s 102ms/step - loss: 8990.6631 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 8.54892611503601(s)
+
+TRAINING & STORING: Neural Network for the dataset PRIMES in the range ER6
+1/1 [==============================] - 0s 100ms/step - loss: 7253.0381 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.3976948261261(s)
+
+################################################################################
+
+TRAINING & STORING: Neural Network for the dataset SUM in the range ER1
+1/1 [==============================] - 0s 99ms/step - loss: 1691.4631 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.481714010238647(s)
+
+TRAINING & STORING: Neural Network for the dataset SUM in the range ER2
+1/1 [==============================] - 0s 103ms/step - loss: 22707510.0000 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 0.9472141265869141(s)
+
+TRAINING & STORING: Neural Network for the dataset SUM in the range ER3
+1/1 [==============================] - 0s 102ms/step - loss: 29312180224.0000 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 6.546722412109375(s)
+
+################################################################################
+
+TRAINING & STORING: Neural Network for the dataset SUNDARAM_FACTORS in the range ER1
+1/1 [==============================] - 0s 124ms/step - loss: 1.9505 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.580005407333374(s)
+
+TRAINING & STORING: Neural Network for the dataset SUNDARAM_FACTORS in the range ER2
+1/1 [==============================] - 0s 100ms/step - loss: 14.8001 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 8.423897981643677(s)
+
+TRAINING & STORING: Neural Network for the dataset SUNDARAM_FACTORS in the range ER3
+1/1 [==============================] - 0s 105ms/step - loss: 23.5975 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.311676740646362(s)
+
+TRAINING & STORING: Neural Network for the dataset SUNDARAM_FACTORS in the range ER4
+1/1 [==============================] - 0s 104ms/step - loss: 195.8680 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 8.934013605117798(s)
+
+TRAINING & STORING: Neural Network for the dataset SUNDARAM_FACTORS in the range ER5
+1/1 [==============================] - 0s 102ms/step - loss: 813.8231 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.507765769958496(s)
+
+TRAINING & STORING: Neural Network for the dataset SUNDARAM_FACTORS in the range ER6
+1/1 [==============================] - 0s 100ms/step - loss: 1773.2546 - accuracy: 0.0000e+00
+Detailed Loss: 0.0
+Elapsed Time: 16.39741015434265(s)

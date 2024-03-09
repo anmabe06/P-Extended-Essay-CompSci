@@ -1,0 +1,214 @@
+{
+    "primes": {
+        "ER1": {
+            "data_standarisation_value": 2,
+            "best_hyperparameters": {
+                "epochs": 200,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 64,
+                "__best_mean_squared_error": -35.70477555256258,
+                "__elapsed_time": 342.956702709198
+            }
+        },
+        "ER2": {
+            "data_standarisation_value": 9157,
+            "best_hyperparameters": {
+                "epochs": 200,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 128,
+                "__best_mean_squared_error": -149.90470173326375,
+                "__elapsed_time": 341.35387110710144
+            }
+        },
+        "ER3": {
+            "data_standarisation_value": 98929,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 64,
+                "__best_mean_squared_error": -219.55109588637478,
+                "__elapsed_time": 346.36505937576294
+            }
+        },
+        "ER4": {
+            "data_standarisation_value": 999998081,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 32,
+                "__best_mean_squared_error": -566.1769529943318,
+                "__elapsed_time": 349.6720292568207
+            }
+        },
+        "ER5": {
+            "data_standarisation_value": 99999999999999999999999999999993391,
+            "best_hyperparameters": {
+                "epochs": 200,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 32,
+                "__best_mean_squared_error": -8990.370634111903,
+                "__elapsed_time": 344.2719385623932
+            }
+        },
+        "ER6": {
+            "data_standarisation_value": 99999999999999999999999999999999999999999999990719,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 128,
+                "__best_mean_squared_error": -16650.90672451977,
+                "__elapsed_time": 349.59801959991455
+            }
+        }
+    },
+
+    "sum": {
+        "ER1": {
+            "data_standarisation_value": 2,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 16,
+                "__best_mean_squared_error": -9277.175142597082,
+                "__elapsed_time": 348.71520495414734
+            }
+        },
+        "ER2": {
+            "data_standarisation_value": 9157,
+            "best_hyperparameters": {
+                "epochs": 10,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 8,
+                "__best_mean_squared_error": -107555277.57487346,
+                "__elapsed_time": 342.3624520301819
+            }
+        },
+        "ER3": {
+            "data_standarisation_value": 98929,
+            "best_hyperparameters": {
+                "epochs": 150,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 8,
+                "__best_mean_squared_error": -5041.799312749623,
+                "__elapsed_time": 343.58986258506775
+            }
+        },
+        "ER4": {
+            "data_standarisation_value": 999998081,
+            "best_hyperparameters": {
+                "epochs": null,
+                "activation": null,
+                "optimizer": null,
+                "units": null,
+                "__best_mean_squared_error": null,
+                "__elapsed_time": null
+            }
+        },
+        "ER5": {
+            "data_standarisation_value": 99999999999999999999999999999993391,
+            "best_hyperparameters": {
+                "epochs": null,
+                "activation": null,
+                "optimizer": null,
+                "units": null,
+                "__best_mean_squared_error": null,
+                "__elapsed_time": null
+            }
+        },
+        "ER6": {
+            "data_standarisation_value": 99999999999999999999999999999999999999999999990719,
+            "best_hyperparameters": {
+                "epochs": null,
+                "activation": null,
+                "optimizer": null,
+                "units": null,
+                "__best_mean_squared_error": null,
+                "__elapsed_time": null
+            }
+        }
+    },
+
+    "sundaram_factors": {
+        "ER1": {
+            "data_standarisation_value": 0,
+            "data_standarisation_factor": 0.1,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 128,
+                "__best_mean_squared_error": -9.585223457741218,
+                "__elapsed_time": 349.1933569908142
+            }
+        },
+        "ER2": {
+            "data_standarisation_value": 4578,
+            "data_standarisation_factor": 0.1,
+            "best_hyperparameters": {
+                "epochs": 200,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 32,
+                "__best_mean_squared_error": -38.735688638269565,
+                "__elapsed_time": 347.0811846256256
+            }
+        },
+        "ER3": {
+            "data_standarisation_value": 49464,
+            "data_standarisation_factor": 0.1,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 32,
+                "__best_mean_squared_error": -39.57358856511901,
+                "__elapsed_time": 352.676753282547
+            }
+        },
+        "ER4": {
+            "data_standarisation_value": 499999040,
+            "data_standarisation_factor": 0.1,
+            "best_hyperparameters": {
+                "epochs": 200,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 32,
+                "__best_mean_squared_error": -188.87074806671558,
+                "__elapsed_time": 348.23038387298584
+            }
+        },
+        "ER5": {
+            "data_standarisation_value": 49999999999999999999999999999996695,
+            "data_standarisation_factor": 0.1,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 128,
+                "__best_mean_squared_error": -3206.1860208718267,
+                "__elapsed_time": 351.1076774597168
+            }
+        },
+        "ER6": {
+            "data_standarisation_value": 49999999999999999999999999999999999999999999995359,
+            "data_standarisation_factor": 0.1,
+            "best_hyperparameters": {
+                "epochs": 400,
+                "activation": "relu",
+                "optimizer": "adam",
+                "units": 64,
+                "__best_mean_squared_error": -3646.768821303927,
+                "__elapsed_time": 353.35811471939087
+            }
+        }
+    }
+}

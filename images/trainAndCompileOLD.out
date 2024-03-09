@@ -1,0 +1,40 @@
+Training & Storing primesER1 model...
+1/1 [==============================] - 0s 346ms/step - loss: 7.1938 - accuracy: 0.0000e+00
+
+Training & Storing primesER2 model...
+1/1 [==============================] - 0s 219ms/step - loss: 671.3245 - accuracy: 0.0000e+00
+
+Training & Storing primesER3 model...
+1/1 [==============================] - 0s 269ms/step - loss: 103.7373 - accuracy: 0.0000e+00
+
+
+
+
+
+
+
+
+
+Training & Storing sumER1 model...
+1/1 [==============================] - 0s 327ms/step - loss: 1232.9894 - accuracy: 0.0000e+00
+
+Training & Storing sumER2 model...
+1/1 [==============================] - 0s 203ms/step - loss: 1267.3015 - accuracy: 0.0000e+00
+
+Training & Storing sumER3 model...
+1/1 [==============================] - 0s 220ms/step - loss: 10111075.0000 - accuracy: 0.0000e+00
+
+
+
+
+
+
+
+Training & Storing sundaram_factorsER1 model...
+1/1 [==============================] - 0s 320ms/step - loss: 1.3892 - accuracy: 0.0000e+00
+
+Training & Storing sundaram_factorsER2 model...
+1/1 [==============================] - 0s 220ms/step - loss: 43.3935 - accuracy: 0.0000e+00
+
+Training & Storing sundaram_factorsER3 model...
+1/1 [==============================] - 0s 198ms/step - loss: 407.6288 - accuracy: 0.0000e+00
